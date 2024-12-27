@@ -12,6 +12,7 @@
 
 ### Version Control (Git)
 - **Basics of Git**: [Git Documentation](https://git-scm.com/doc)
+- **Git Beginner Course**: [Git Beginner Course](https://www.mongard.ir/courses/gitcourse/)
 - **GitHub Workflow**: [GitHub Guides](https://guides.github.com/)
 
 ### Web Development Basics
@@ -20,19 +21,26 @@
 
 ### Python Frameworks (Web Development)
 - **Flask**: [Flask Documentation](https://flask.palletsprojects.com/)
+- **Flask Beginner Course**: [Flask Beginner Course](https://www.mongard.ir/courses/flask-beginner-course/)
 - **FastAPI**: [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- **FastAPI Beginner Course**: [FastAPI Beginner Course](https://www.mongard.ir/courses/fastapi/)
+- **FastAPI Full Course**: [FastAPI Full Course](https://www.youtube.com/watch?v=SORiTsvnU28)
+- **Django**: [Django Documentation](https://docs.djangoproject.com/en/5.1/)
+- **Django Beginner Course**: [Django Beginner Course](https://www.mongard.ir/courses/django-beginners/)
 
 ### Databases
 - **SQL Basics**: [SQL for Beginners - W3Schools](https://www.w3schools.com/sql/)
 - **PostgreSQL**: [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- **ORM**: [SQLAlchemy Documentation](https://docs.sqlalchemy.org/)
+- **SQLAlchemy ORM**: [SQLAlchemy Documentation](https://docs.sqlalchemy.org/)
+- **SQLModel ORM**: [SQLModel Documentation](https://sqlmodel.tiangolo.com/)
 
 ### Basic Tools
 - **Postman**: [Postman Website](https://www.postman.com/)
 - **Docker**: [Docker Documentation](https://docs.docker.com/)
 
 ### Deployment
-- **Deploy Flask/FastAPI**: [Deploy Flask on Heroku](https://devcenter.heroku.com/articles/deploying-python) | [Deploy FastAPI on AWS](https://fastapi.tiangolo.com/deployment/)
+- **Deploy Flask**: [Deploy Flask on Heroku](https://devcenter.heroku.com/articles/deploying-python)
+- **Deploy FastAPI**: [FastAPI Deployment](https://fastapi.tiangolo.com/deployment/) | [Deploy Flask on Heroku](https://devcenter.heroku.com/articles/deploying-python)
 
 ---
 
