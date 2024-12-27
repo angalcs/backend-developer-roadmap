@@ -4,6 +4,7 @@
 
 ### Core Python
 - **Syntax and Basics**: [Python Official Docs](https://docs.python.org/3/tutorial/)
+- **Beginner Course**: [Python Beginner Course](https://www.mongard.ir/courses/python-beginner-course/)
 - **Data Structures**: [Real Python: Data Structures](https://realpython.com/python-data-structures/)
 - **OOP**: [OOP in Python - Programiz](https://www.programiz.com/python-programming/object-oriented-programming)
 - **Error Handling**: [Python Error Handling - Real Python](https://realpython.com/python-exceptions/)
@@ -42,6 +43,9 @@
 - **Decorators**: [Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 - **Typing**: [Python Type Hints - Official Docs](https://docs.python.org/3/library/typing.html)
 - **Concurrency**: [Asyncio Docs](https://docs.python.org/3/library/asyncio.html)
+- **Itertools**: [Python Itertools](https://docs.python.org/3/library/itertools.html)
+- **Functools**: [Python Functools](https://docs.python.org/3/library/functools.html)
+- **Design Patterns**: [Python Design Patterns](https://refactoring.guru/design-patterns/python)
 
 ### Backend Development Advanced Concepts
 - **Authentication & Authorization**:
